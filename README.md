@@ -1,4 +1,4 @@
-<img alt="Laravel Expert" src="https://i.imgur.com/eCVyxxy.png">
+<img alt="Laravel Expert" src="https://i.imgur.com/DQsDBi5.png">
 <h2 align="center">
   Laravel Expert
 </h2>
