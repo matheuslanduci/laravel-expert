@@ -5,3 +5,7 @@
 <p align="center">
 A repository to show my projects made with Laravel (PHP).
 </p>
+
+### Projects
+
+- [GoPets](https://github.com/matheuslanduci/gopets-laravel)
